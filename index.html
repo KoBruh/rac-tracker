@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0e1012">
+  <meta name="description" content="Reads your Ratchet & Clank (2002) save from OpenRAC and shows what you still have to get. Offline, read-only, no account.">
+  <title>RaC Tracker</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%230e1012'/%3E%3Crect x='4' y='4' width='8' height='8' fill='%23f2c230'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/app.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <div class="app">
+    <header class="top">
+      <h1 class="title">RaC Tracker</h1>
+      <p class="chip" id="status" role="status">No save</p>
+    </header>
+
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button class="tab" role="tab" id="tab-progress" aria-controls="panel-progress" aria-selected="true">Progress</button>
+      <button class="tab" role="tab" id="tab-planets" aria-controls="panel-planets" aria-selected="false" tabindex="-1">Planets</button>
+      <button class="tab" role="tab" id="tab-save" aria-controls="panel-save" aria-selected="false" tabindex="-1">Save</button>
+    </nav>
+
+    <main class="main">
+      <section class="panel" role="tabpanel" id="panel-progress" aria-labelledby="tab-progress" tabindex="-1"></section>
+      <section class="panel" role="tabpanel" id="panel-planets" aria-labelledby="tab-planets" tabindex="-1" hidden></section>
+      <section class="panel" role="tabpanel" id="panel-save" aria-labelledby="tab-save" tabindex="-1" hidden></section>
+    </main>
+  </div>
+  <input type="file" id="file" class="visually-hidden" tabindex="-1" aria-hidden="true">
+  <noscript><p class="noscript">RaC Tracker needs JavaScript to read your save.</p></noscript>
+</body>
+</html>

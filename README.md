@@ -158,7 +158,7 @@ Detector, 28 Magneboots, 29 Grindboots, 30 Hoverboard, 31 Hologuise, 32 PDA, 33 
 
 **Done when:**
 
-- [ ] `node --test` passes.
+- [x] `node --test` passes.
 - [ ] Deployed to GitHub Pages (from the start, so the owner can test on the phone).
 - [ ] A real save loads on the phone in Chrome (picked from Files → OpenRAC) and the counts
   match OpenRAC's own save editor.

@@ -1,0 +1,203 @@
+{
+  "_source": "Item ids, names and gold versions: OpenRAC launcher (save_edit.rs ITEMS).",
+  "items": [
+    {
+      "id": 2,
+      "name": "Heli-Pack",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 3,
+      "name": "Thruster-Pack",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 4,
+      "name": "Hydro-Pack",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 5,
+      "name": "Sonic Summoner",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 6,
+      "name": "O2 Mask",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 7,
+      "name": "Pilot's Helmet",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 9,
+      "name": "Suck Cannon",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 10,
+      "name": "Bomb Glove",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 11,
+      "name": "Devastator",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 12,
+      "name": "Swingshot",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 13,
+      "name": "Visibomb Gun",
+      "kind": "weapon",
+      "gold": false
+    },
+    {
+      "id": 14,
+      "name": "Taunter",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 15,
+      "name": "Blaster",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 16,
+      "name": "Pyrocitor",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 17,
+      "name": "Mine Glove",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 18,
+      "name": "Walloper",
+      "kind": "weapon",
+      "gold": false
+    },
+    {
+      "id": 19,
+      "name": "Tesla Claw",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 20,
+      "name": "Glove of Doom",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 21,
+      "name": "Morph-o-Ray",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 22,
+      "name": "Hydrodisplacer",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 23,
+      "name": "R.Y.N.O.",
+      "kind": "weapon",
+      "gold": false
+    },
+    {
+      "id": 24,
+      "name": "Drone Device",
+      "kind": "weapon",
+      "gold": false
+    },
+    {
+      "id": 25,
+      "name": "Decoy Glove",
+      "kind": "weapon",
+      "gold": true
+    },
+    {
+      "id": 26,
+      "name": "Trespasser",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 27,
+      "name": "Metal Detector",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 28,
+      "name": "Magneboots",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 29,
+      "name": "Grindboots",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 30,
+      "name": "Hoverboard",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 31,
+      "name": "Hologuise",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 32,
+      "name": "PDA",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 33,
+      "name": "Map-o-Matic",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 34,
+      "name": "Bolt Grabber",
+      "kind": "gadget",
+      "gold": false
+    },
+    {
+      "id": 35,
+      "name": "Persuader",
+      "kind": "gadget",
+      "gold": false
+    }
+  ]
+}

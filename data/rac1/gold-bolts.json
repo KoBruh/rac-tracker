@@ -1,0 +1,25 @@
+{
+  "_source": "Count per level: OpenRAC launcher (save_edit.rs GOLD_BOLTS_PER_PLANET). Which bolt is which slot, positions and hints: not known yet (Phase 2).",
+  "perLevel": [
+    0,
+    3,
+    4,
+    3,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    4,
+    2,
+    2,
+    2,
+    3
+  ],
+  "bolts": []
+}

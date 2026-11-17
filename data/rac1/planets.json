@@ -1,0 +1,119 @@
+{
+  "_source": "Level order and names: OpenRAC launcher (saves.rs RAC1_PLANETS). ship = reachable by ship (levels 1-16).",
+  "planets": [
+    {
+      "level": 0,
+      "name": "Veldin",
+      "goldBolts": 0,
+      "ship": false
+    },
+    {
+      "level": 1,
+      "name": "Novalis",
+      "goldBolts": 3,
+      "ship": true
+    },
+    {
+      "level": 2,
+      "name": "Aridia",
+      "goldBolts": 4,
+      "ship": true
+    },
+    {
+      "level": 3,
+      "name": "Kerwan",
+      "goldBolts": 3,
+      "ship": true
+    },
+    {
+      "level": 4,
+      "name": "Eudora",
+      "goldBolts": 1,
+      "ship": true
+    },
+    {
+      "level": 5,
+      "name": "Rilgar",
+      "goldBolts": 2,
+      "ship": true
+    },
+    {
+      "level": 6,
+      "name": "Nebula G34",
+      "goldBolts": 2,
+      "ship": true
+    },
+    {
+      "level": 7,
+      "name": "Umbris",
+      "goldBolts": 2,
+      "ship": true
+    },
+    {
+      "level": 8,
+      "name": "Batalia",
+      "goldBolts": 2,
+      "ship": true
+    },
+    {
+      "level": 9,
+      "name": "Gaspar",
+      "goldBolts": 2,
+      "ship": true
+    },
+    {
+      "level": 10,
+      "name": "Orxon",
+      "goldBolts": 2,
+      "ship": true
+    },
+    {
+      "level": 11,
+      "name": "Pokitaru",
+      "goldBolts": 1,
+      "ship": true
+    },
+    {
+      "level": 12,
+      "name": "Hoven",
+      "goldBolts": 2,
+      "ship": true
+    },
+    {
+      "level": 13,
+      "name": "Oltanis Orbit",
+      "goldBolts": 1,
+      "ship": true
+    },
+    {
+      "level": 14,
+      "name": "Oltanis",
+      "goldBolts": 4,
+      "ship": true
+    },
+    {
+      "level": 15,
+      "name": "Quartu",
+      "goldBolts": 2,
+      "ship": true
+    },
+    {
+      "level": 16,
+      "name": "Kalebo III",
+      "goldBolts": 2,
+      "ship": true
+    },
+    {
+      "level": 17,
+      "name": "Veldin Orbit",
+      "goldBolts": 2,
+      "ship": false
+    },
+    {
+      "level": 18,
+      "name": "Veldin (return)",
+      "goldBolts": 3,
+      "ship": false
+    }
+  ]
+}
